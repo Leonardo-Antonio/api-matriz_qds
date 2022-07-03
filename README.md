@@ -2,7 +2,7 @@
 
 ### Test Endpoint
 
-- matrix
+- matrix [POST] http://137.184.238.39/api/v1/matrix/api/v1/matrix
 ```
 // [POST] http://137.184.238.39/api/v1/matrix/api/v1/matrix
 // Headers Content-Type: application/json
