@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  ws_qds:
+    image: leo2001/api-matriz_qds:v1.0.0
+    restart: always
+    ports:
+      - 8000:8000
+      
