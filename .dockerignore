@@ -7,3 +7,6 @@
 # Ext
 .vscode
 .gitignore
+
+/docs
+docs
